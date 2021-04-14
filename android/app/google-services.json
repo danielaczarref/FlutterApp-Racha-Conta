@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495563071098",
+    "project_id": "racha-conta-d87a2",
+    "storage_bucket": "racha-conta-d87a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495563071098:android:34669a159bed1fcedae5c3",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495563071098-0b5cmaqm5bjf0r85h44vboa6emquhb8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0DWuIVCRC7rrFCvsahmvNU1jlndg8BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495563071098-0b5cmaqm5bjf0r85h44vboa6emquhb8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
