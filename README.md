@@ -11,6 +11,22 @@ A new Flutter project.
 
 O app exibe o valor total da conta a ser dividida e os possíveis contatos que o usuário possui para dividir a conta. Além do mais, conta com um botão flutuante para modificação do valor total da despesa a ser dividida.
 
+
+![alt text](https://github.com/danielaczarref/FlutterApp-Racha-Conta/blob/master/TelaInicial.png?raw=true)
+
+
+Fig. 1 - Tela inicial do app
+
+![alt text](https://github.com/danielaczarref/FlutterApp-Racha-Conta/blob/master/MudancaEstado.png?raw=true)
+
+
+Fig. 2 - Mudança de estado ao adicionar os contatos
+
+![alt text](https://github.com/danielaczarref/FlutterApp-Racha-Conta/blob/master/Modal.png?raw=true)
+
+
+Fig. 3 - Modal de adicionar novo valor
+
 #### Widgets
 - Button, utilizado para dividir a despesa;
 - CardPerson, utilizado para exibir os contatos do usuário;
